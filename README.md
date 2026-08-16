@@ -1,5 +1,3 @@
-# MCR v3 — Segregated Structure
-
 This is `request.php` (originally 6,356 lines in one file) split into a
 maintainable folder structure. No logic was changed — only reorganized.
 
